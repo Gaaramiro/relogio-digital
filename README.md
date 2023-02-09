@@ -1,2 +1,2 @@
 # relogio-digital
-https://gaaramiro.github.io/landing-page/
+https://gaaramiro.github.io/relogio-digital/
